@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodePractice", "LeetCodePractice\LeetCodePractice.csproj", "{7AD8E23B-2649-4FCE-B5C8-44BE0FEE7F95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrome(Easy)", "IsPalindrome(Easy)\IsPalindrome(Easy).csproj", "{4C328050-7FC4-4E96-8829-D99575AA05C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD8E23B-2649-4FCE-B5C8-44BE0FEE7F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD8E23B-2649-4FCE-B5C8-44BE0FEE7F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD8E23B-2649-4FCE-B5C8-44BE0FEE7F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD8E23B-2649-4FCE-B5C8-44BE0FEE7F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C328050-7FC4-4E96-8829-D99575AA05C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C328050-7FC4-4E96-8829-D99575AA05C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C328050-7FC4-4E96-8829-D99575AA05C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C328050-7FC4-4E96-8829-D99575AA05C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A6AA7A3-FD40-4FFB-A6F7-30C32CC43347}
+	EndGlobalSection
+EndGlobal
