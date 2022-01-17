@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPalindrome(Easy)", "IsPal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum(Easy)", "TwoSum(Easy)\TwoSum(Easy).csproj", "{C7EBB4D7-42CF-4AFC-AD66-F5A6E348982A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomantoInteger(Easy)", "RomantoInteger(Easy)\RomantoInteger(Easy).csproj", "{0502967A-AD82-4E9F-BA71-82957B811BD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C7EBB4D7-42CF-4AFC-AD66-F5A6E348982A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7EBB4D7-42CF-4AFC-AD66-F5A6E348982A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7EBB4D7-42CF-4AFC-AD66-F5A6E348982A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0502967A-AD82-4E9F-BA71-82957B811BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0502967A-AD82-4E9F-BA71-82957B811BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0502967A-AD82-4E9F-BA71-82957B811BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0502967A-AD82-4E9F-BA71-82957B811BD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
