@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodePractice", "LeetCod
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPalindrome(Easy)", "IsPalindrome(Easy)\IsPalindrome(Easy).csproj", "{4C328050-7FC4-4E96-8829-D99575AA05C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum(Easy)", "TwoSum(Easy)\TwoSum(Easy).csproj", "{C7EBB4D7-42CF-4AFC-AD66-F5A6E348982A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum(Easy)", "TwoSum(Easy)\TwoSum(Easy).csproj", "{C7EBB4D7-42CF-4AFC-AD66-F5A6E348982A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomantoInteger(Easy)", "RomantoInteger(Easy)\RomantoInteger(Easy).csproj", "{0502967A-AD82-4E9F-BA71-82957B811BD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomantoInteger(Easy)", "RomantoInteger(Easy)\RomantoInteger(Easy).csproj", "{0502967A-AD82-4E9F-BA71-82957B811BD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanPlaceFlowers(Easy)", "CanPlaceFlowers(Easy)\CanPlaceFlowers(Easy).csproj", "{BD7EAEB3-52BB-40D5-8E23-5A7631C9CEED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0502967A-AD82-4E9F-BA71-82957B811BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0502967A-AD82-4E9F-BA71-82957B811BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0502967A-AD82-4E9F-BA71-82957B811BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD7EAEB3-52BB-40D5-8E23-5A7631C9CEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7EAEB3-52BB-40D5-8E23-5A7631C9CEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7EAEB3-52BB-40D5-8E23-5A7631C9CEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7EAEB3-52BB-40D5-8E23-5A7631C9CEED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
